@@ -1,0 +1,9 @@
+D:\file\unity\Manila\ManilaGameServer\MyServer\Protocol\obj\Debug\Protocol.csproj.CoreCompileInputs.cache
+D:\file\unity\Manila\ManilaGameServer\MyServer\Protocol\bin\Debug\Protocol.dll
+D:\file\unity\Manila\ManilaGameServer\MyServer\Protocol\bin\Debug\Protocol.pdb
+D:\file\unity\Manila\ManilaGameServer\MyServer\Protocol\obj\Debug\Protocol.dll
+D:\file\unity\Manila\ManilaGameServer\MyServer\Protocol\obj\Debug\Protocol.pdb
+D:\file\unity\Manila\ManilaProject\Assets\Scripts\Protocol.dll
+D:\file\unity\Manila\ManilaProject\Assets\Scripts\Protocol.pdb
+D:\file\unity\Manila\ManilaGameServer\MyServer\Protocol\obj\Debug\Protocol.csprojAssemblyReference.cache
+D:\file\unity\Manila\ManilaGameServer\MyServer\Protocol\obj\Debug\Protocol.csproj.CopyComplete

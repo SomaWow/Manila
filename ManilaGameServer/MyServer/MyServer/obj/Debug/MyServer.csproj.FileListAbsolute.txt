@@ -1,0 +1,14 @@
+D:\file\unity\Manila\ManilaGameServer\MyServer\MyServer\bin\Debug\MyServer.dll
+D:\file\unity\Manila\ManilaGameServer\MyServer\MyServer\bin\Debug\MyServer.pdb
+D:\file\unity\Manila\ManilaGameServer\MyServer\MyServer\obj\Debug\MyServer.csprojAssemblyReference.cache
+D:\file\unity\Manila\ManilaGameServer\MyServer\MyServer\obj\Debug\MyServer.csproj.CoreCompileInputs.cache
+D:\file\unity\Manila\ManilaGameServer\MyServer\MyServer\obj\Debug\MyServer.dll
+D:\file\unity\Manila\ManilaGameServer\MyServer\MyServer\obj\Debug\MyServer.pdb
+D:\file\unity\Manila\ManilaGameServer\MyServer\MyServer\bin\Debug\Microsoft.CSharp.dll
+D:\file\unity\Manila\ManilaGameServer\MyServer\MyServer\bin\Debug\System.Data.DataSetExtensions.dll
+D:\file\unity\Manila\ManilaGameServer\MyServer\MyServer\bin\Debug\System.Data.dll
+D:\file\unity\Manila\ManilaGameServer\MyServer\MyServer\bin\Debug\System.dll
+D:\file\unity\Manila\ManilaGameServer\MyServer\MyServer\bin\Debug\System.Net.Http.dll
+D:\file\unity\Manila\ManilaGameServer\MyServer\MyServer\bin\Debug\System.Xml.dll
+D:\file\unity\Manila\ManilaGameServer\MyServer\MyServer\bin\Debug\System.Xml.Linq.dll
+D:\file\unity\Manila\ManilaGameServer\MyServer\MyServer\obj\Debug\MyServer.csproj.CopyComplete
